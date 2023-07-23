@@ -1,0 +1,88 @@
+/* 
+Name: DANISH KHAN DURRANI
+Seneca ID: Dkdurrani - 128284221
+
+*/
+.navbar.bg-light {
+  background-color: #6B3074; /*Purple*/
+}
+
+.navbar-light .navbar-brand {
+  font-family: 'Arial', sans-serif;
+  color: #FFC93C; /*Yellow*/
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #FF5E5B; /*Red*/
+  text-shadow: 1px 1px 2px #888;
+}
+
+.nav-link {
+  font-family: 'Arial', sans-serif;
+  color: #FFC93C; /*Yellow*/
+}
+
+.nav-link:hover {
+  color: #FF5E5B; /*Red*/
+}
+
+body,
+html {
+  background-color: #1E3040; /*Dark blue*/
+}
+
+.btn-primary {
+  background-color: #0F7173; /*Teal*/
+  color: #FFC93C; /*Yellow*/
+}
+
+.btn-primary:hover {
+  background-color: #FF5E5B; /*Red*/
+}
+
+table tr:nth-child(odd) td {
+  background-color: #6B3074; /*Purple*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arial', sans-serif;
+  color: #FFC93C; /*Yellow*/
+  text-shadow: 1px 1px 1px #000;
+}
+
+a {
+  color: #FFC93C; /*Yellow*/
+}
+
+a:hover {
+  color: #FF5E5B; /*Red*/
+}
+
+legend {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Arial', sans-serif;
+  color: #FFC93C; /*Yellow*/
+  text-shadow: 1px 1px 1px #000;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.container h1 {
+  font-size: 30px;
+  color: #FFC93C; /*Yellow*/
+}
+
+.container p {
+  color: #0F7173; /*Teal*/
+}
+
+.container a {
+  color: #FFC93C; /*Yellow*/
+}
+
+.container a:hover {
+  color: #FF5E5B; /*Red*/
+}
